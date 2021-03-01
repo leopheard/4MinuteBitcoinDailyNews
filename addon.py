@@ -2,18 +2,18 @@ from xbmcswift2 import Plugin, xbmcgui
 from resources.lib import mainaddon
 
 plugin = Plugin()
-url1 = ""
+url1 = "https://crypto.libsyn.com/rss"
 @plugin.route('/')
 def main_menu():
     items = [
         {
             'label': plugin.get_string(30001), 
             'path': plugin.url_for('episodes1'),
-            'thumbnail': ""},
+            'thumbnail': "https://ssl-static.libsyn.com/p/assets/b/3/3/2/b33258a2f4c0cac0/1400x_4minutebitcoin.jpg"},
         {
             'label': plugin.get_string(30000),
             'path': plugin.url_for('episodes'),
-            'thumbnail': ""},
+            'thumbnail': "https://ssl-static.libsyn.com/p/assets/b/3/3/2/b33258a2f4c0cac0/1400x_4minutebitcoin.jpg"},
     ]
     return items
 

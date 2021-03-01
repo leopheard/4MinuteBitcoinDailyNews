@@ -1,6 +1,8 @@
-<a href="kodi.tv">KODI<a> (XBMC/OSMC/Firestick) audio addon for the <a href="">xxxxxxxxxx</a> podcast.<br>
+<a href="kodi.tv">KODI<a> (XBMC/OSMC/Firestick) audio addon for the <a href="https://BitBlockBoom.com">4 Minute Bitcoin Daily News</a> podcast.<br>
 
-<img src=""><br>
+<img src="https://ssl-static.libsyn.com/p/assets/b/3/3/2/b33258a2f4c0cac0/1400x_4minutebitcoin.jpg"><br>
+
+Hall of Fame podcaster Gary Leland produces these short news updates about Bitcoin to help keep you up to date with the ever changing world of Bitcoin. Get your daily dose of Bitcoin news every week day in 4 minutes or less on the 4 Minute Bitcoin Show. This is a https://BitBlockBoom.com production.<br>
 
 <a href="www.kodi.tv">Kodi</a> (formerly known as XBMC) is an award-winning free and open source (GPL) software media player and entertainment hub that can be installed on Linux, OSX, Windows, iOS and Android, featuring a 10-foot user interface for use with televisions and remote controls. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet.<br>
 

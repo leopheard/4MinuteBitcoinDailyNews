@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.audio." name="xxxxx" version="1.0.0" provider-name="leopheard">
+<addon id="plugin.audio.4minutebitcoindailynews" name="4 Minute Bitcoin Daily News" version="1.0.0" provider-name="leopheard">
   <requires>
     <import addon="xbmc.python" version="2.26.0"/>
     <import addon="script.module.xbmcswift2" version="2.4.0"/>
@@ -13,15 +13,15 @@
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
     <language>en_us</language>
-    <summary lang="en">xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</summary>
-    <description lang="en">xxxddddxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</description>
+    <summary lang="en">4 Minute Bitcoin Daily News</summary>
+    <description lang="en">Hall of Fame podcaster Gary Leland produces these short news updates about Bitcoin to help keep you up to date with the ever changing world of Bitcoin. Get your daily dose of Bitcoin news every week day in 4 minutes or less on the 4 Minute Bitcoin Show. This is a https://BitBlockBoom.com production.</description>
     <license>The MIT License (MIT)</license>
     <forum></forum>
     <email>leopheard@gmail.com</email>
-    <source>https://github.com/leopheard/</source>
-    <website></website>
+    <source>https://github.com/leopheard/4MinuteBitcoinDailyNews</source>
+    <website>https://BitBlockBoom.com</website>
         	<assets>
-			<icon>resources/media/icon.jpg</icon>
+			<icon>resources/media/logo.jpg</icon>
 			<fanart>resources/media/fanart.jpg</fanart>
 			<screenshot>resources/media/1.jpg</screenshot>
 			<screenshot>resources/media/2.jpg</screenshot>
